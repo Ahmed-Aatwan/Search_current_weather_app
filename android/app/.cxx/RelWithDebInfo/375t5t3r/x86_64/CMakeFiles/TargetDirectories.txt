@@ -1,0 +1,2 @@
+C:/Users/ahmed/Desktop/Projects/weather_search_app/android/app/.cxx/RelWithDebInfo/375t5t3r/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/ahmed/Desktop/Projects/weather_search_app/android/app/.cxx/RelWithDebInfo/375t5t3r/x86_64/CMakeFiles/rebuild_cache.dir
