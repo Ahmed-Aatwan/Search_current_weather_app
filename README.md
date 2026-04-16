@@ -50,3 +50,15 @@ This project uses:
 <img width="250" alt="Weather Info Screen" src="https://github.com/user-attachments/assets/a667326c-603e-462d-88d5-6e77735e9dde" />
 <img width="250" alt="Weather Info Screen 2" src="https://github.com/user-attachments/assets/e7d9335d-ee6a-453e-9928-ebfceb9741e7" />
 <img width="250" alt="Weather Info Screen 3" src="https://github.com/user-attachments/assets/21d43603-e93b-42bf-91b9-dfa7485411ce" />
+
+## 📁 Project Structure
+
+```bash
+lib/
+├── cubits/
+├── models/
+├── views/
+├── widgets/
+└── main.dart
+```
+**Or [Download](https://github.com/Ahmed-Aatwan/Search_current_weather_app/releases/download/v1.0/Search_Weather.apk) the APK**
