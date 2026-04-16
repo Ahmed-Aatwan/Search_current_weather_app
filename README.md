@@ -61,4 +61,4 @@ lib/
 ├── widgets/
 └── main.dart
 ```
-**Or [Download](https://github.com/Ahmed-Aatwan/Search_current_weather_app/releases/download/v1.0/Search_Weather.apk) the APK**
+**[Download](https://github.com/Ahmed-Aatwan/Search_current_weather_app/releases/download/v1.0/Search_Weather.apk) the APK**
